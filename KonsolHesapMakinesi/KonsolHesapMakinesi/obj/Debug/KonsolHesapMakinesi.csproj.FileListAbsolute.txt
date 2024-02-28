@@ -1,0 +1,8 @@
+C:\Projeler\C#\KonsolHesapMakinesi\KonsolHesapMakinesi\bin\Debug\KonsolHesapMakinesi.exe.config
+C:\Projeler\C#\KonsolHesapMakinesi\KonsolHesapMakinesi\bin\Debug\KonsolHesapMakinesi.exe
+C:\Projeler\C#\KonsolHesapMakinesi\KonsolHesapMakinesi\bin\Debug\KonsolHesapMakinesi.pdb
+C:\Projeler\C#\KonsolHesapMakinesi\KonsolHesapMakinesi\obj\Debug\KonsolHesapMakinesi.csproj.AssemblyReference.cache
+C:\Projeler\C#\KonsolHesapMakinesi\KonsolHesapMakinesi\obj\Debug\KonsolHesapMakinesi.csproj.SuggestedBindingRedirects.cache
+C:\Projeler\C#\KonsolHesapMakinesi\KonsolHesapMakinesi\obj\Debug\KonsolHesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Projeler\C#\KonsolHesapMakinesi\KonsolHesapMakinesi\obj\Debug\KonsolHesapMakinesi.exe
+C:\Projeler\C#\KonsolHesapMakinesi\KonsolHesapMakinesi\obj\Debug\KonsolHesapMakinesi.pdb
