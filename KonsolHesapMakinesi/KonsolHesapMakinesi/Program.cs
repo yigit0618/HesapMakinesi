@@ -21,5 +21,6 @@ namespace KonsolHesapMakinesi
         }
 
         /*Parametreli fonksiyon ile yapımı:*/
+        // SELAMIN ALEYKÜM DÜNYA
     }
 }
