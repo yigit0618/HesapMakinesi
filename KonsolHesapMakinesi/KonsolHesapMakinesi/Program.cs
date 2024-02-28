@@ -20,6 +20,6 @@ namespace KonsolHesapMakinesi
             Console.ReadKey();
         }
 
-        /*Parametreli fonksiyon ile yapımı:*/
+        /*Parametreli fonksiyon ile yapımı:*/  /* selamı aleykum abijim*/
     }
 }
